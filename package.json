@@ -52,7 +52,7 @@
     "ripple-lib": "^0.17.9",
     "ripple-sign-keypairs": "1.0.2",
     "sjcl": "^1.0.7",
-    "socket.io": "^2.0.4",
+    "socket.io": "^2.4.0",
     "text-encoding": "^0.6.4",
     "tweetnacl": "^1.0.0",
     "utf-8-validate": "^4.0.0"
